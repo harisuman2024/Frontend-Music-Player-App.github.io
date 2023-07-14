@@ -1,0 +1,174 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.row {
+    height: 100px;
+}
+
+html,
+body {
+    color: black;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: rgb(176, 176, 217);
+}
+
+/* HEADERBAR */
+
+.logo {
+    padding-left: 5px;
+    padding-top: 10px;
+    width: 9%;
+    height: 74px;
+}
+
+.col-md-8 {
+    display: flex;
+}
+
+.h5 {
+    padding-top: 24px;
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+
+.search {
+    margin: 10px 10px;
+    padding: 5px 50px;
+    border: none;
+    border-radius: 3px;
+}
+
+.logoright {
+    margin-top: 5px;
+    width: 8%;
+    height: 30px;
+    border-radius: 14px;
+}
+
+/* BODY LEFT */
+
+.bodyhead {
+    width: 100%;
+    height: 220px;
+    margin-top: 30px;
+}
+
+.back2 {
+    background-color: rgb(160, 160, 168);
+    margin-top: 15px;
+    width: 100%;
+    height: 40px;
+}
+
+.back2,
+h6 {
+    display: flex;
+}
+
+.para {
+    padding-left: 8px;
+    padding-top: 15px;
+    font-size: 8px;
+}
+
+.paraimg {
+    margin-left: 8px;
+    margin-top: 15px;
+    width: 12px;
+    height: 12px;
+}
+
+.h6 {
+    font-size: 9px;
+    font-weight: 600;
+    word-wrap: none;
+}
+
+.heart {
+    color: black;
+    margin-left: 280px;
+    width: 18px;
+    height: 14px;
+    margin-top: 12px;
+}
+
+.image3 {
+    margin: 8px 10px;
+    width: 5%;
+    height: 22px;
+}
+
+/* BODY RIGHT */
+
+
+
+.righth4 {
+    padding-left: 22px;
+}
+
+.right {
+    padding-left: 25px;
+}
+
+.image2 {
+    width: 60px;
+    height: 50px;
+    background-size: cover;
+}
+
+.back {
+    display:flex;
+    padding: 5px;
+}
+
+.back,h6{
+    margin: 15px;
+}
+
+/* Recently Played */
+
+.back1{
+    display: flex;
+}
+
+/* Recently View All Down */
+
+.heart1 {
+    width: 18px;
+    height: 14px;
+    margin-top: 12px;
+}
+.righthead {
+    padding-top: 15px;
+}
+
+/* FOOTER */
+
+.row-footer{
+    height: 40px;
+    background-color: rgb(52, 44, 44);
+}
+
+.righthead{
+    padding-top: 50px;
+}
+
+.heart1{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.rightleft{
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+a{
+ color: rgba(0, 0, 0, 0.821);
+ text-decoration: none;
+}
